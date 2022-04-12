@@ -1,0 +1,9 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {.1}GLOSSAIRE : Lexique / Variables et Unités }{3}%
+\contentsline {section}{\numberline {.2}L'équipe}{4}%
+\contentsline {part}{I\hspace {1em}Introduction}{5}%
+\contentsline {part}{II\hspace {1em}La trachéotomie et ses conséquences}{7}%
+\contentsline {section}{\numberline {II.1}Qu'est-ce que la trachéotomie ?}{7}%
+\contentsline {part}{III\hspace {1em}Cahier des charges : objectifs}{8}%
+\contentsline {part}{IV\hspace {1em}Recherches sur la trachéotomie : Anatomie}{9}%
+\contentsline {part}{V\hspace {1em}Recherches en électronique: les capteurs }{10}%
